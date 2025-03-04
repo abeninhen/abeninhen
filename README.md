@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abeninhen
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning C|EH
+- 🌱 I’m just passed C|EH exam
 - 💞️ I’m looking to collaborate on any related subject or projects
 - 📫 How to reach me: www.linkedin.com/in/henryaninson
 - 😄 Pronouns: He/HIM
